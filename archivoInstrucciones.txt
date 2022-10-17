@@ -1,0 +1,26 @@
+INSTRUCCIONES DE LO QUE HE HECHO PERO POR ALGUN MOTIVO QUE DESCONOZCO NO ME LO SUBE A GITHUB
+1- HE CREADO REPOSITORIO
+2- HE HECHO cd/Desktop PARA SITUARME EN EL LUGAR CORRECTO
+3- mkdir "GitDesdeGitBash" para crear la carpeta
+4- git init para inicializar repo
+5- touch archivo1.txt PARA CREAR DOCUMENTO
+6- touch archivo1.txt HE MODIFICADO EL DOCUMENTO DESDE EL TERMINAL(lo he guardado y he comprobado que realmente se había añadido lo que escribo)
+7- git add archivo1.txt
+8- git commit -m"Comprometo el archivo"
+9- git push -u origin master PERO NO ME LO AÑADE AL REPOSITORIO
+10 -git push -u origin main TAMPOCO ME LO AÑADE
+11- pruebo añadirlo con las lineas de instrucciones que aparecen en github NO FUNCIONA...
+12- git branch NewBranch (CREO BRANCH)
+13- git checkout NewBranch (PARA UBICARME EN NewBranch)
+14- touch archivo1.txt( LO MODIFICO)
+15- git add archivo1.txt(LO SUBO A STAGE)
+16- git commit -m "Comprometo archivo1.txt"
+17- git push (NI CASO ME HACE...)
+18- git checkout main/master( no me acuerdo exactamente pero he puesto lo que debía)
+19- git merge NewBranch
+20- git push (NI CASO...)
+21- git branch -d NewBranch (Y se elimina)
+22- Añado archivoInstrucciones.txt MANUALMENTE con las instrucciones de todo lo que he hecho para que quede constancia ya que con git log --oneline no aparecen y con git log tampoco
+
+
+
