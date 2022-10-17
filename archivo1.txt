@@ -1,3 +1,8 @@
 Edito archivo1.txt desde terminal Bash
 Escribo otra linea desde Terminal para modificar archivo:
 MODIFICO DESDE NEW BRANCH PARA MERGE CON MAIN/MASTER
+MERGE CON MASTER
+Y POR ULTIMO:
+ git branch -d NewBranch
+Deleted branch NewBranch (was 9189d76).
+
